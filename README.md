@@ -23,5 +23,9 @@ JavaScript basic problems for practice
 
 ----------------------------------------------------------------------------------------------------------------
 
+## 📸 Screenshot Example
 
+Here is a sample output of the program number 5:
+
+![Program Output](./images/console-1.png)
 
