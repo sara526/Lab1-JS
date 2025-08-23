@@ -73,8 +73,8 @@ if (num1 <= num2 && num1 <= num3) {
     minNum = num3;
 }
 
-console.log("Max element =", maxNum);
-console.log("Min element =", minNum);
+console.log("Max number =", maxNum);
+console.log("Min number =", minNum);
 
 */
 
